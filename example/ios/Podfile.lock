@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - score_ios (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - score_ios (from `.symlinks/plugins/score_ios/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  score_ios:
+    :path: ".symlinks/plugins/score_ios/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  score_ios: 2c037be2d7b759c48ce249035e4a15ceda414cd3
+
+PODFILE CHECKSUM: 3dbe063e9c90a5d7c9e4e76e70a821b9e2c1d271
+
+COCOAPODS: 1.7.4
